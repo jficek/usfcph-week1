@@ -10,3 +10,6 @@ FORK + CLONE
     "CLONING" is saving a copy on your local computer (in case you need to work offline)
 
 COMMIT
+    It's like a checkpoint. You can always go back to it.
+
+PUSH + PULL
