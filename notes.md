@@ -5,3 +5,4 @@ Hit SYNC at end of class
 
 VERSION CONTROL
 GIT Verbs
+FORK + CLONE
